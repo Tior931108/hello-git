@@ -4,6 +4,7 @@ public class GitPractice {
 
 	public static void main(String[] args) {
 		System.out.println("Git 연습입니다.");
+		System.out.println("Git 수정입니다.");
 	}
 
 }

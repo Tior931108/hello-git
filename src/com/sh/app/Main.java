@@ -14,6 +14,7 @@ public class Main {
 		new Dog().bark();
 		new Cat().jump();
 		new Lion().walk();
+		new Bird().fly();
 		new Monkey().run();
 	}
 
